@@ -27,3 +27,28 @@ main{
     text-align: center;
 
 }
+
+main p{
+    font-size: 18px;
+    margin-bottom: 15px;
+}
+
+.input-welcome{
+    padding: 10px;
+    width: 200px;
+    margin-bottom: 20px;
+}
+
+.button-ok{
+    padding: 10px 20px;
+    background-color: #89056afb;
+    color: #ffffff;
+    cursor: pointer;
+}
+
+footer{
+    background-color: #5c0158e8;
+    color: #fff;
+    text-align: left;
+    padding: 15px;
+}
