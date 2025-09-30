@@ -11,7 +11,10 @@ document.addEventListener("DOMContentLoaded", function(){
             var name = document.getElementById("input-name")
 
             // Mostramos un alerta del navegador con el contenido del intup
-            alert("Yokoso " + name.value + " to soul society")
+            alert("Yokoso " + name.value + " watashi no soul society")
+
+            console.log("Regresa pa, no hay nada que ver aqui")
+            console.error("traes un troyano pa")
         })
 
 })
